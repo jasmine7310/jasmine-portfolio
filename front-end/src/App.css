@@ -1,0 +1,59 @@
+.app{
+  /*background-image: url('/public/background.svg');*/
+  background-color: #e3e5e8;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+body, .app {
+  font-family: "Sen", sans-serif;
+}
+
+.sen-font {
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.judson-regular {
+  font-family: "Judson", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p{
+  font-size: 18px;
+}
+
+h1{
+  font-family: "Judson", serif;
+  font-size: 48px;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+
+h2{
+  font-family: "Judson", serif;
+}
+
+.details-item{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+#details-container{
+  margin-left: 0;
+}
+
+a{
+  color:rgb(42, 39, 252);
+}
+
+a:hover{
+  color:rgb(255, 73, 225);
+}

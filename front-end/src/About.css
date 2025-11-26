@@ -1,0 +1,41 @@
+#whoAmI-svg{
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+.about-container {
+    position: relative; 
+}
+
+#GitHub-svg:hover{
+    cursor: pointer;
+    filter: invert(1) grayscale(1) brightness(1.1);
+    -webkit-filter: invert(1) grayscale(1) brightness(1.1);
+}
+
+#GitHub-svg{
+    width: 5%; 
+    transition: filter 200ms ease, transform 200ms ease;
+}
+
+#about-sections-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; 
+  align-items: flex-start;        
+  gap: 40px;                      
+  width: 100%;
+  margin-top: 15%;
+  margin-bottom: 5%;
+}
+
+#left-about-section,
+#right-about-section {
+  flex: 1;                        
+  max-width: 50%;                 
+}
+
+#right-about-section img {
+    width: 100%;
+    border-radius: 10px;
+}
