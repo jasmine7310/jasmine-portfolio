@@ -11,16 +11,16 @@ export default function App() {
   const [activePage, setActivePage] = useState("home");
 
   const pageBackgrounds = {
-    about: "/background.svg",
-    whales: "/whales-bg.svg",
-    ubiq: "/ubiq-bg.svg",
-    bookcover: "/bookcover-bg.svg",
-    home: "/home-bg.svg",
-    mand: "/mand-bg.svg",
-    tlocate: "/tlocate-bg.svg",
-    restaurant: "/restaurant-bg.svg",
-    webslingerz: "/webslingerz-bg.svg",
-    shuwa: "/shuwa-bg.svg"
+    about: "./background.svg",
+    whales: "./whales-bg.svg",
+    ubiq: "./ubiq-bg.svg",
+    bookcover: "./bookcover-bg.svg",
+    home: "./home-bg.svg",
+    mand: "./mand-bg.svg",
+    tlocate: "./tlocate-bg.svg",
+    restaurant: "./restaurant-bg.svg",
+    webslingerz: "./webslingerz-bg.svg",
+    shuwa: "./shuwa-bg.svg"
   };
 
   const backgroundImage = pageBackgrounds[activePage]

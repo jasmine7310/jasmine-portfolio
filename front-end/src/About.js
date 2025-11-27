@@ -8,8 +8,8 @@ function toGithub(){
 export default function About() {
   return (
     <div className="about-container">
-      <img src="/whoAmI.svg" alt="Who Am I SVG" id="whoAmI-svg" className="fade-in-on-load"/>
-      <img src="/GitHub.svg" alt="GitHub SVG" id="GitHub-svg" className="fade-in-on-load" onClick={toGithub}/>
+      <img src="./whoAmI.svg" alt="Who Am I SVG" id="whoAmI-svg" className="fade-in-on-load"/>
+      <img src="./GitHub.svg" alt="GitHub SVG" id="GitHub-svg" className="fade-in-on-load" onClick={toGithub}/>
       <p className="fade-in-on-load sen-font">scroll down for more!!</p>
       <div id="about-sections-container">
         <div id="left-about-section" className="fade-in-on-load">
@@ -30,7 +30,7 @@ export default function About() {
           </p>
           </div>
           <div id="right-about-section" className="fade-in-on-load">
-            <img src="/IMG_8008.GIF" alt="me!"/>
+            <img src="./IMG_8008.GIF" alt="me!"/>
             <p className="sen-font">Never trust software, not even yourself.</p>
           </div>
           

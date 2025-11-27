@@ -15,8 +15,8 @@ export default function Ubiq() {
       </p>
       <h2>Certificates Earned</h2>
       <div class="certificate-container">
-        <img class="certificate-img" src="/QC Insider Program Certificate.png" alt="Ubiq Insider Program Certificate"/>
-        <img class="certificate-img" src="/Ubiq Product Lab Certificate.png" alt="Ubiq Product Lab Certificate"/>
+        <img class="certificate-img" src="./QC Insider Program Certificate.png" alt="Ubiq Insider Program Certificate"/>
+        <img class="certificate-img" src="./Ubiq Product Lab Certificate.png" alt="Ubiq Product Lab Certificate"/>
       </div>
 
       <h2>Figma Prototypes</h2>
