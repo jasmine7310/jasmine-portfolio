@@ -15,10 +15,10 @@ export default function Shuwa() {
             <a href="https://github.com/agile-students-fall2025/4-final-gesturetalk">For now, see the Github Repository here!</a>
             <h2>Documentation</h2>
             <div class="shuwa-container">
-                <img alt="Shuwa" src="./projects/shuwa_1.png" class="shuwa-img"/>
-                <img alt="Shuwa" src="./projects/shuwa_2.png" class="shuwa-img"/>
+                <img alt="Shuwa" src="jasmine7310/projects/shuwa_1.png" class="shuwa-img"/>
+                <img alt="Shuwa" src="jasmine7310/projects/shuwa_2.png" class="shuwa-img"/>
             </div>
-            <img alt="Shuwa" src="./projects/shuwa_3.png" class="shuwa-ex"/>
+            <img alt="Shuwa" src="jasmine7310/projects/shuwa_3.png" class="shuwa-ex"/>
             
         </>
     )

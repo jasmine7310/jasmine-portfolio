@@ -14,7 +14,7 @@ export default function Webslingerz() {
         <p>Game developed with team using containters for web app and MongoDB. Copy the repository on Github onto your local machine and follow the instructions to run locally! Happy bird collecting!</p>
         <a href="https://github.com/jasmine7310/swe-webslingrz-bird-collector">Link to Github Repo here!</a>
         <h2>Preview</h2>
-        <img alt="Bird Collecting Preview" src="./projects/webslingers.png" id="ws-img"></img>
+        <img alt="Bird Collecting Preview" src="jasmine7310/projects/webslingers.png" id="ws-img"></img>
         </>
     )
 }

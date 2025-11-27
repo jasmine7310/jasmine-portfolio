@@ -22,21 +22,21 @@ export default function Mand() {
         <iframe title="MAND playthough" src="https://drive.google.com/file/d/1X8B5DPg79rslXLz5L3klebUMx0ApmVzb/preview" width="800" height="480" allow="autoplay"></iframe>
         <h2>Ideal Arduino Setup</h2>
         <p>- Current development only needs light sensor</p>
-        <img class="mand-img" alt="Arduino Setup" src="./projects/mand_controller.png"/>
-        <img class="mand-img" alt="Light Setup" src="./projects/mand_doc.png"/>
+        <img class="mand-img" alt="Arduino Setup" src="jasmine7310/projects/mand_controller.png"/>
+        <img class="mand-img" alt="Light Setup" src="jasmine7310/projects/mand_doc.png"/>
         <h2>Proof of Arduino Setup: Light Sensor</h2>
         <p>Using the light sensor, when an enemy comes near, the player can use their hands to cover the light sensor to hide from the enemies. The light sensor would be placed near the player's eyes for a full immersive effect. Please see the future development section in the documentation section for more context.</p>
         <iframe title="Arduino Setup" src="https://drive.google.com/file/d/13wauvjAjJoRBvmaW3lB-kndclQBY5B5u/preview" width="800" height="480" allow="autoplay"/>
         <div class="mand-container">
-            <img alt="mand_dev" src="./projects/mand-1.png" class="mand-item"/>
-            <img alt="mand_dev" src="./projects/mand-2.png" class="mand-item"/>
-            <img alt="mand_dev" src="./projects/mand-3.jpeg" class="mand-item"/>
-            <img alt="mand_dev" src="./projects/mand-4.jpeg" class="mand-item"/>
+            <img alt="mand_dev" src="jasmine7310/projects/mand-1.png" class="mand-item"/>
+            <img alt="mand_dev" src="jasmine7310/projects/mand-2.png" class="mand-item"/>
+            <img alt="mand_dev" src="jasmine7310/projects/mand-3.jpeg" class="mand-item"/>
+            <img alt="mand_dev" src="jasmine7310/projects/mand-4.jpeg" class="mand-item"/>
         </div>
         <h1>Documentation</h1>
         <iframe
             title="MAND Documentation"
-            src="./projects/MAND_ Interactive Thriller Documentation.pdf"
+            src="jasmine7310/projects/MAND_ Interactive Thriller Documentation.pdf"
             width="100%"
             height="600px"
             style={{ border: "none" }}
@@ -44,7 +44,7 @@ export default function Mand() {
         <h2>User Flowchart</h2>
         <iframe
             title="MAND Documentation"
-            src="./projects/MAND FINAL Flowchart.drawio (1).png"
+            src="jasmine7310/projects/MAND FINAL Flowchart.drawio (1).png"
             width="100%"
             height="600px"
             style={{ border: "none" }}
@@ -52,10 +52,10 @@ export default function Mand() {
         <h2>Prototype</h2>
         <p>Originally, this was a game to be played with potentiometers and an Arduino setup in order to control the player. The player is located in a maze and must find their way out by finding a key.</p>
         <div class="mand-container">
-            <img alt="mand_prototype" src="./projects/mand-proto-1.png" class="mand-item"/>
-            <img alt="mand_prototype" src="./projects/mand-proto-2.png" class="mand-item"/>
-            <img alt="mand_prototype" src="./projects/mand-proto-3.png" class="mand-item"/>
-            <img alt="mand_prototype" src="./projects/mand-proto-4.png" class="mand-item"/>
+            <img alt="mand_prototype" src="jasmine7310/projects/mand-proto-1.png" class="mand-item"/>
+            <img alt="mand_prototype" src="jasmine7310/projects/mand-proto-2.png" class="mand-item"/>
+            <img alt="mand_prototype" src="jasmine7310/projects/mand-proto-3.png" class="mand-item"/>
+            <img alt="mand_prototype" src="jasmine7310/projects/mand-proto-4.png" class="mand-item"/>
         </div>
         <h2>Playable Inital Prototype: mouse compatible, only lose state</h2>
         <iframe title="Prototype" src="https://editor.p5js.org/jf4654/sketches/Q7BzRZBh_9" width="100%" height="800"></iframe>
