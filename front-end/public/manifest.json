@@ -3,7 +3,7 @@
   "name": "Jasmine Fan Portfolio",
   "icons": [
     {
-      "src": "favicon-16x16.png",
+      "src": "./favicon-16x16.png",
       "sizes": "16x16",
       "type": "image/x-icon"
     },
