@@ -12,7 +12,7 @@ export default function ProjectMasonry() {
             <Box sx={{borderRadius: 2, overflow: "hidden", backgroundColor: "white", border: "2px solid rgba(0,0,0)", mb: "10px"}}>
                 <ImageListItem key={item.img} sx={{overflow: "hidden", background: "transparent",}} className="fade-in-on-load" >
                     <img
-                    src={`jasmine7310/${item.img}`}
+                    src={`./${item.img}`}
                     alt={item.title}
                     loading="lazy"
                     />
