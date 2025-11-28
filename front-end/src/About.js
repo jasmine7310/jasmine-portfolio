@@ -31,7 +31,7 @@ export default function About() {
           </div>
           <div id="right-about-section" className="fade-in-on-load">
             <img src="./IMG_8008.GIF" alt="me!"/>
-            <p className="sen-font">Never expect your code to run smoothly the first run. Test, test, and test again. Then, revise. Rinse and repeat.</p>
+            <p className="sen-font">Test, revise, rinse and repeat.</p>
           </div>
           
       </div>
