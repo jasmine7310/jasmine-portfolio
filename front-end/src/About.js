@@ -25,13 +25,13 @@ export default function About() {
             Outside of school and work, I love to swim, go birdwatching, travel, visit art museums, and build crafts!
             <br/>
             <br/>
-            You might find me in California during some summers, New York during the school year, or in Shanghai.
+            You might find me in California during some summers, New York during the school year, or in Shanghai visiting family.
             Hope to see you around! 
           </p>
           </div>
           <div id="right-about-section" className="fade-in-on-load">
             <img src="./IMG_8008.GIF" alt="me!"/>
-            <p className="sen-font">Test, revise, rinse and repeat.</p>
+            <p className="sen-font">Never trust software, not even yourself. Test, revise, rinse and repeat.</p>
           </div>
           
       </div>
