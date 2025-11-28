@@ -11,7 +11,7 @@ export default function TLocate() {
             <p>Design concept for a solution to landfills located near residental areas.</p>
             <iframe
             title="T-Locate Documentation"
-            src="./projects/Jasmine Fan- T-Locate Documentation_ Portfolio (2).pdf"
+            src="https://drive.google.com/file/d/1VviGVnhnMwBl202jFUJOQppgE0BnbYuJ/preview"
             width="100%"
             height="600px"
             style={{ border: "none" }}

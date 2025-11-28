@@ -36,7 +36,7 @@ export default function Mand() {
         <h1>Documentation</h1>
         <iframe
             title="MAND Documentation"
-            src="./projects/MAND_ Interactive Thriller Documentation.pdf"
+            src="https://drive.google.com/file/d/14re4SqnyRvvp3r7kvLPChQ9VxDuSxGsI/preview"
             width="100%"
             height="600px"
             style={{ border: "none" }}

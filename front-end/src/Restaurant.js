@@ -17,7 +17,7 @@ export default function Restaurant() {
         <img alt="Customer_GUI" src="./projects/Customer_GUI.PNG" class="restaurant-img"/>
         <img alt="Deliverer_GUI" src="./projects/Deliverer_GUI.png" class="restaurant-img"/>
         <h2>Project Report</h2>
-        <iframe title="Restaurant Delivery App Report" src="./projects/OOP_Final_Report.pdf" width="100%" height="800"/>
+        <iframe title="Restaurant Delivery App Report" src="https://drive.google.com/file/d/18rAlzScUvXSKHIC7D7of2b_3IkyeTYXa/preview" width="100%" height="800"/>
         </>
     )
 }
