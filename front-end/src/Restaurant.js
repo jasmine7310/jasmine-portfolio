@@ -13,7 +13,7 @@ export default function Restaurant() {
         <p>App made in Eclipse to show understanding of Use Case Diagrams, Class Diagrams, and Sequence Diagrams.</p>
         <a href="https://github.com/./restaurant-app-OOP">Link to project Github repo here!</a>
         <h2>Project Ideation</h2>
-        <p>- I made these quick sketches of the idea for the project on a train in China.</p>
+        <p>- Here are some quick ideation concepts I made for the app.</p>
         <img alt="Customer_GUI" src="./projects/Customer_GUI.PNG" class="restaurant-img"/>
         <img alt="Deliverer_GUI" src="./projects/Deliverer_GUI.png" class="restaurant-img"/>
         <h2>Project Report</h2>
