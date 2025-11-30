@@ -10,7 +10,7 @@ export default function Restaurant() {
             <p class="details-item">2025</p>
             <p class="details-item">Eclipse, Java</p>
         </div>
-        <p>App made in Eclipse to show understanding of Use Case Diagrams, Class Diagrams, and Sequence Diagrams.</p>
+        <p>App made in Eclipse to demonstrate understanding of Use Case Diagrams, Class Diagrams, Sequence Diagrams, and Object Oriented Programming concepts.</p>
         <a href="https://github.com/./restaurant-app-OOP">Link to project Github repo here!</a>
         <h2>Project Ideation</h2>
         <p>- Here are some quick ideation concepts I made for the app.</p>
