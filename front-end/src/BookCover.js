@@ -12,7 +12,6 @@ export default function BookCover() {
             </div>
             <p>I judge a book by its book cover. Otherwise why even design the covers of books?</p>
             <p>For a project in Design 1, I had the chance to redesign the Dover Thrift Editions "Medea" book cover. Here are some of my solutions to the new book cover design.</p>
-            <br/>
             <h2>Selected Covers from each Direction</h2>
             <p>- A summary of my personal favorites.</p>
             <div className="cover-align">
