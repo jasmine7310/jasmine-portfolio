@@ -11,8 +11,6 @@ export default function Shuwa() {
                 <p class="details-item">MERN, React.js, Express.js, MongoDB Atlas, Machine Learning</p>
         </div>
             <p>Shuwa is a live video conference app designed to translate sign language into summarized text during a meeting, recognizing short and simple signs through a web cam and display translated short summary captions.</p>
-            <a href="https://www.shuwameetingapp.com">Check out the live deployed app here!</a>
-            <br/>
             <a href="https://github.com/agile-students-fall2025/4-final-gesturetalk">See the Github Repository here!</a>
             <h2>Documentation</h2>
             <div class="shuwa-container">
