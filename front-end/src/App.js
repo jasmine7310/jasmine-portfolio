@@ -9,9 +9,12 @@ const drawerWidth = 240;
 
 const pages = ["home", "about", "shuwa", "ubiq", "mand", "tlocate", "webslingerz", "restaurant", "whales", "bookcover"];
 
+// Supports both /#ubiq and /?page=ubiq (some PDF viewers drop or mangle the "#" in links)
 function getPageFromHash() {
-  const page = window.location.hash.replace("#", "").toLowerCase();
-  return pages.includes(page) ? page : "home";
+  const hashPage = window.location.hash.replace("#", "").toLowerCase();
+  if (pages.includes(hashPage)) return hashPage;
+  const queryPage = (new URLSearchParams(window.location.search).get("page") || "").toLowerCase();
+  return pages.includes(queryPage) ? queryPage : "home";
 }
 
 export default function App() {
