@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import "./App.css";
 import Box from "@mui/material/Box";
 import CssBaseline from "@mui/material/CssBaseline";
@@ -7,8 +7,27 @@ import MainLayout from "./Layout";
 
 const drawerWidth = 240;
 
+const pages = ["home", "about", "shuwa", "ubiq", "mand", "tlocate", "webslingerz", "restaurant", "whales", "bookcover"];
+
+function getPageFromHash() {
+  const page = window.location.hash.replace("#", "").toLowerCase();
+  return pages.includes(page) ? page : "home";
+}
+
 export default function App() {
-  const [activePage, setActivePage] = useState("home");
+  const [activePage, setActivePageState] = useState(getPageFromHash);
+
+  // Keep the active page in sync with the URL hash so pages can be linked to directly (e.g. /#ubiq)
+  useEffect(() => {
+    const onHashChange = () => setActivePageState(getPageFromHash());
+    window.addEventListener("hashchange", onHashChange);
+    return () => window.removeEventListener("hashchange", onHashChange);
+  }, []);
+
+  const setActivePage = (page) => {
+    window.location.hash = page;
+    setActivePageState(page);
+  };
 
   const pageBackgrounds = {
     about: "./background.svg",
