@@ -18,14 +18,15 @@ export default function About() {
             I love to envelope myself in software, art, and gadgets that bridge the gap between humanities and STEM. 
             <br/>
             <br/>
-            I'm currently a senior at New York University majoring in Computer Science, minoring in Interactive Media Arts,
-            Digial Art and Design, Web Programming and Applications, and Chinese.
+            I'm currently pursuing a Master of Science in Computer Science at the University of California, Los Angeles (UCLA).
+            I earned my B.A. in Computer Science from New York University, with minors in Interactive Media Arts,
+            Digital Art and Design, Web Programming and Applications, and Chinese.
             <br/>
             <br/>
             Outside of school and work, I love to swim, go birdwatching, travel, visit art museums, and build crafts!
             <br/>
             <br/>
-            You might find me in California during some summers, New York during the school year, or in Shanghai visiting family.
+            You might find me in Los Angeles during the school year, or in Shanghai visiting family.
             Hope to see you around! 
           </p>
           </div>
