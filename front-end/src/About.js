@@ -26,7 +26,7 @@ export default function About() {
             Outside of school and work, I love to swim, go birdwatching, travel, visit art museums, and build crafts!
             <br/>
             <br/>
-            You might find me in California during some summers, New York during the school year, or in Shanghai visiting family.
+            You might find me in Los Angeles during the school year, or in Shanghai visiting family.
             Hope to see you around! 
           </p>
           </div>
